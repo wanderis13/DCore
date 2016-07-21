@@ -1,0 +1,6 @@
+name: DCore
+main: com.ewoudje.bukkit.dcore.Main
+version: 0.1
+commands:
+ Money:
+  description: shows money
